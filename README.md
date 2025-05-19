@@ -8,7 +8,7 @@ I’m a third-year Software Engineering student at Inacap Valparaíso. I enjoy u
 -  🧠 Currently learning...
 -  C++
 -  I’m excited about collaborating on open-source projects.
--  Outside of tech, I enjoy 📺 watching anime, 📖 reading manga, 🎮 playing video games, and 🏔️ going for walks outdoors or camping.
+-  Outside of tech, I enjoy 📺 watching anime, 📖 reading manga, 🎮 playing video games and 🏔️ going for walks outdoors or camping.
 -  📫 Contact me at: vicente.caimanque@inacapmail.cl
 
 ## My Skills Include
